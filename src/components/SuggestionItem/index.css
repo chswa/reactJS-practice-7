@@ -1,0 +1,8 @@
+/* Write your CSS here */
+list-container {
+  display: flex;
+  border: solid 2px orange;
+}
+.suggestion {
+  color: #475569;
+}
